@@ -148,6 +148,4 @@ console.log(sum(2, 3)); // 5
 ---
 
 ### 🎓 Education
-
-**[University Name]**, [Department, Major]  
 **Courses:** FreeCodeCamp, HTML Academy, IT-Incubator
