@@ -1,34 +1,37 @@
 # rsschool-cv
 
-## Цветков Сергей Игоревич
+## Tsviatkou Sergey
 
 ---
 
-### 📍 Контакты
-- **Локация:** [Беларусь. Минск]
-- **Телефон:** [+375-29-157-78-37]  
-- **Email:** [ыукпвшфп19"пьфшдюсщь]  
+### Contacts
+- **Location:** [Беларусь. Минск]
+- **Phone:** [+375-29-157-78-37]  
+- **Email:** [sergdiag19@gmail.com]  
 - **GitHub:** [[ссылка на профиль GitHub](https://github.com/SergGrey1992)]
 
 ---
 
-### 🧠 Обо мне
-Я фронтенд-разработчик с упором на создание интерактивных образовательных платформ. Стремлюсь к высокому качеству интерфейсов, UX и технической архитектуре. Всегда открыт к новым технологиям и прокачке своих скиллов.
+### About Me
+Frontend and mobile developer focused on building scalable web and mobile applications with clean architecture. Passionate about crafting great UX, high-quality UI, and working at the intersection of technology and creativity.
 
 ---
 
-### ⚙️ Навыки
-- HTML, CSS, SASS
+### Skills
+- HTML, CSS, SCSS
 - JavaScript, TypeScript
-- React
-- REST API (Axios)
-- Microservice architecture
-- Canvas API
-- Git
+- React, React Native, Next.js
+- Redux Toolkit, Redux Persist
+- React Query, TanStack Query
+- REST API, Axios
+- Firebase, AsyncStorage, BLE-manager
+- Framer Motion, GSAP, Canvas, SVG
+- i18n, DnD, FFmpeg-kit
+- Git, CI/CD, App Routing, SSR/SSG
 
 ---
 
-### 💻 Пример кода
+### Code Example
 
 ```ts
 function sum(a: number, b: number): number {
